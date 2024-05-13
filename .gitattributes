@@ -1,1 +1,4 @@
 README.md filter=lfs diff=lfs merge=lfs -text
+GPT-SoVITS-beta0217fix.part3.rar filter=lfs diff=lfs merge=lfs -text
+GPT-SoVITS-beta0217fix.part1.rar filter=lfs diff=lfs merge=lfs -text
+GPT-SoVITS-beta0217fix.part2.rar filter=lfs diff=lfs merge=lfs -text
